@@ -4,7 +4,7 @@
 
 ### Singapore Bus Route Project 
 
-[Project 1 Title](/sample_page)
+[One Day this will be public](https://github.com/rpeky/Singapore-Bus-Route-Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
