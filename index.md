@@ -5,7 +5,7 @@
 ### Singapore Bus Route Project 
 
 [One Day this will be public](https://github.com/rpeky/Singapore-Bus-Route-Project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/projectpngv2.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
